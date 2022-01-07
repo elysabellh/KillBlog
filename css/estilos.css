@@ -1,0 +1,61 @@
+body
+{
+    color: #0f810b;
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cabecera
+{
+    background: #33A;
+    box-shadow: 4px 6px 43px 3px rgba(1, 0, 0, 0.5);
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#cabecera
+{
+    background: rgb(29, 118, 190);
+    box-shadow: 0px 2px 20px 0px rgba(36, 33, 37);
+    color: rgb(227, 211, 240);
+    font-weight: bold;
+    
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid rgb(116, 145, 240);
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20xp;
+}
+
+#post
+{
+    padding: 1em;
+}
+
