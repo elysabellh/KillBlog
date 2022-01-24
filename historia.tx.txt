@@ -13,5 +13,5 @@ Se una nueva persona para editar codigo que es Cerezo01
 Se prueba la conexion del repositorio
 >>>>>>> header
 =======
-Se una nueva persona para crear codigo Cerzo01
+Se una nueva persona externa para colaborar en este proyecto
 >>>>>>> footer
