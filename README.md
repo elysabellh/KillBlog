@@ -22,3 +22,5 @@ https://git-scm.com/docs/git-remote`
 #### Bitbucket
 
 `https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud
+
+##Leer las reseñas de caada articulo
