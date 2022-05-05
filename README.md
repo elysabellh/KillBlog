@@ -21,4 +21,12 @@ https://git-scm.com/docs/git-remote`
 
 #### Bitbucket
 
+<<<<<<< HEAD
 `https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud
+=======
+`https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud
+
+##Leer las reseñas de caada articulo
+
+Leer los articulos mencionados anteriormente para enternder bien los copceptos de git
+>>>>>>> a11bf1d (Se agregar mas comentarios para redme)
