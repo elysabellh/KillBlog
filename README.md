@@ -26,3 +26,5 @@ https://git-scm.com/docs/git-remote`
 ##Leer las reseñas de caada articulo
 
 Leer los articulos mencionados anteriormente para enternder bien los copceptos de git
+ 
+ ### GitHub y git es diferente 
